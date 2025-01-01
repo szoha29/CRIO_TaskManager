@@ -1,0 +1,19 @@
+# Node.js
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+
+# Build output
+build
+dist
+
+# Logs
+*.log
+
+# Vercel and Render files
+.vercel
+.render
